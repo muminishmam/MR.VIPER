@@ -1,4 +1,6 @@
 # MR.VIPER
+- An algorithm to efficiently mine minimal rare itemsets, modifying an existing Vertical Pattern Mining Algorithm(VIPER) for frequent patterns. 
+- Researched, developed and created as a collaborative group effort. 
 
 ## How to run the program?
 - Step1: download the project. 
